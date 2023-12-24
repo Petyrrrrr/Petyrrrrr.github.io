@@ -17,6 +17,9 @@ Education
   * Double Major in Mathematics (Course 18) and Computer Science (Course 6-3).
   * GPA: 5.0/5.0. See a selected coursework in my CV.
 
+
+=====
+
 Honors
 ======
 * William Lowell Putnam Math Competition N1 (Top 15 Overall), 2021
