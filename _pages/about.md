@@ -12,7 +12,11 @@ I'm currently a fourth-year undergraduate student at MIT, studying Math, CS, and
 
 Research interests
 ======
-I'm generally interested in the theory of statistics, computer science, combinatorics, and applied probability.
+I'm generally interested in the statistics, computer science, combinatorics, and applied probability. A good amount of my past work happened at the intersection of theoretical CS and statistics where I explore insights from TCS to analyze non-asymptotic and high-dimensional inference problems. Last semester I spent some time reading about statistical physics inspired topics such as [spin glasses](https://arxiv.org/abs/2204.02909) and [Approximate Message Passing](https://arxiv.org/abs/2302.03682).
+
+I'm also broadly interested in understanding '[intelligence](https://www.britannica.com/technology/artificial-intelligence)', despite my constant lag behind the [up-to-date](https://openreview.net/group?id=ICLR.cc/2024/Conference#tab-active-submissions) AI developments. 
+
+
 
 Some ongoing thoughts
 ======
@@ -29,7 +33,7 @@ Some ongoing thoughts
   * Can you shortcut starting at a noise ratio so low that efficient denoising algorithms start to function?
 
 * Average-case Reductions and Hardness
-  * We have some wonderful results matching moments with dense graphs from the Planted Clique model. Can one do something in the sparse regime?
+  * We have some wonderful results matching moments with dense graphs from the Planted Clique model. How about in the sparse regime?
   * Is there some clever way to show that signal recovery in the planted community problem is strictly harder than detection?
 
 Some past projects
