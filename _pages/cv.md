@@ -11,6 +11,8 @@ redirect_from:
 
 You can find my CV [here](../assets/Tianze_CV (5).pdf).
 
+&nbsp;
+
 Education
 ======
 * B.S., Massachusetts Institute of Technology, 2020-2024
