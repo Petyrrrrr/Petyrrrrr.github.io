@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here.
+You can find my CV here: [CV](../assets/Tianze_CV (5).pdf).
 
 Education
 ======
