@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a fourth-year undergraduate student at MIT, studying Math, CS, and Statistics. I grew up in [Shanghai](https://www.urbandictionary.com/author.php?author=newyorkstinks), China, and went to [PRISMS](https://prismsus.org/) for high school in Princeton, NJ.
+I'm currently a fourth-year undergraduate student at MIT, studying Math, CS, and Statistics. I grew up in [Shanghai](https://www.urbandictionary.com/author.php?author=newyorkstinks), China, and went to [PRISMS](https://prismsus.org/) for high school in Princeton, NJ. A [list]() of things I've done (awards, papers, talks, etc.) can be found [here](). More detailed descriptions of my past projects is [here](..\assets\Tianze_J_CV.pdf)
 
 Research interests
 ======
@@ -35,8 +35,4 @@ Some ongoing thoughts
 * Average-case Reductions and Hardness
   * We have some wonderful results matching moments with dense graphs from the Planted Clique model. How about in the sparse regime?
   * Is there some clever way to show that signal recovery in the planted community problem is strictly harder than detection?
-
-Some past projects
-======
-* I have done some interesting works.
 
