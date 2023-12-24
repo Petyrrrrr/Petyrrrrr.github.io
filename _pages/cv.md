@@ -19,7 +19,11 @@ Education
 
 Honors
 ======
-
+* William Lowell Putnam Math Competition N1 (Top 15 Overall), 2021
+* International Math Olympiad Silver Medal (Team USA), 2020
+* USA Math Olympiad (USAMO) winner, 5th place overall, 2020
+* Asian-Pacific Math Olympiad, 3rd place worldwide, 2020
+* Chinese IMO Team Candidate Top 15, 2018
 
 
 Recent Publications
