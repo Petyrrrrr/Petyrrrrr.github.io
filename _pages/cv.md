@@ -18,7 +18,7 @@ Education
   * GPA: 5.0/5.0. See a selected coursework in my CV.
 
 
-=====
+&nbsp;
 
 Honors
 ======
