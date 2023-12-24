@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tianze Jiang"
   avatar           : "profile.png"
-  bio              : "Welcome to my page! If you are interested in my academic journey please find the 'Experiences' tab. This page is still very much under construction so I apologize in advance if there are bugs or inconsistencies."
+  bio              : "Welcome to my page! If you came for my academic journey please find the 'Experiences' tab. This page is still very much under construction so I apologize in advance if there are bugs or inconsistencies."
   location         : "Hopefully LA, or the likes"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : first_initial_+_last_name_at_mit_dot_edu
+  email            : tjiang@mit.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
