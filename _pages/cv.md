@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experiences"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here: [CV](../assets/Tianze_CV (5).pdf).
+You can find my CV [here](../assets/Tianze_CV (5).pdf).
 
 Education
 ======
-* B.S. in Massachusetts Institute of Technology, 2020-2024
+* B.S., Massachusetts Institute of Technology, 2020-2024
+  * Double Major in Mathematics (Course 18) and Computer Science (Course 6-3).
+  * GPA: 5.0/5.0.
 
 Publications
 ======
