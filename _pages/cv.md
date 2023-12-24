@@ -28,6 +28,7 @@ Honors
 * Asian-Pacific Math Olympiad, 3rd place worldwide, 2020
 * Chinese IMO Team Candidate Top 15, 2018
 
+&nbsp;
 
 Recent Publications
 ======
@@ -44,7 +45,7 @@ Recent Publications
   * Co-authored with Guy Bresler.
   * Accepted at the 2023 COLT (Bangalore, India).
 
-
+&nbsp;
   
 Talks
 ======
@@ -61,14 +62,14 @@ Talks
   * Presented at group meeting of Prof. Yury Polyanskiy, MIT LIDS.
   * TLDR: kernel methods on likelihood-free testing gives sample complexity bounds with minimal assumpstions and recover several past results on smooth and discrete distributions.
 
-
+&nbsp;
 
 Work experience
 ======
 * Summer 2021: Quantitative Research Intern, TongDeng Fund (Shanghai China)
   * Worked on position optimizing algorithm based on T+1 stock market constraint.
 
-
+&nbsp;
 
 Teaching
 ======
