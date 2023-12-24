@@ -20,6 +20,8 @@ Education
 Honors
 ======
 
+
+
 Recent Publications
 ======
 * Optimal Prediction Risk via Compression
@@ -34,6 +36,8 @@ Recent Publications
 * Detection-Recovery and Detection-Refutation Gaps via Reductions from Planted Clique
   * Co-authored with Guy Bresler.
   * Accepted at the 2023 COLT (Bangalore, India).
+
+
   
 Talks
 ======
@@ -50,10 +54,14 @@ Talks
   * Presented at group meeting of Prof. Yury Polyanskiy, MIT LIDS.
   * TLDR: kernel methods on likelihood-free testing gives sample complexity bounds with minimal assumpstions and recover several past results on smooth and discrete distributions.
 
+
+
 Work experience
 ======
 * Summer 2021: Quantitative Research Intern, TongDeng Fund (Shanghai China)
   * Worked on position optimizing algorithm based on T+1 stock market constraint.
+
+
 
 Teaching
 ======
