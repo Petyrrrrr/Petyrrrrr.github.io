@@ -37,13 +37,13 @@ Recent Publications
 * Optimal Prediction Risk via Compression
   * Co-authored with Yanjun Han and Yihong Wu.
   * Under preparation/submitted.
-* Density Estimation Using the Perceptron
+* [Density Estimation Using the Perceptron](https://bit.ly/halfspaces)
   * Co-authored with Patrik Gerber, Yury Polyanskiy, and Rui Sun.
   * Under preparation/submitted.
-* Kernel-based Tests for Likelihood-Free Hypothesis Testing
+* [Kernel-based Tests for Likelihood-Free Hypothesis Testing](https://openreview.net/forum?id=paTESG8iSE)
   * Co-authored with Patrik Gerber, Yury Polyanskiy, and Rui Sun.
   * Accepted for Posters at the 2023 NeurIPS (New Orleans, USA).
-* Detection-Recovery and Detection-Refutation Gaps via Reductions from Planted Clique
+* [Detection-Recovery and Detection-Refutation Gaps via Reductions from Planted Clique](https://proceedings.mlr.press/v195/bresler23a.html)
   * Co-authored with Guy Bresler.
   * Accepted at the 2023 COLT (Bangalore, India).
 
