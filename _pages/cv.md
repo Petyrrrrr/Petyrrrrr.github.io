@@ -15,19 +15,40 @@ Education
 ======
 * B.S., Massachusetts Institute of Technology, 2020-2024
   * Double Major in Mathematics (Course 18) and Computer Science (Course 6-3).
-  * GPA: 5.0/5.0.
+  * GPA: 5.0/5.0. See a selected coursework in my CV.
 
-Publications
+Honors
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+Recent Publications
+======
+* Optimal Prediction Risk via Compression
+  * Co-authored with Yanjun Han and Yihong Wu.
+  * Under preparation/submitted.
+* Density estimation using the perceptron
+  * Co-authored with Patrik Gerber, Yury Polyanskiy, and Rui Sun.
+  * Under preparation/submitted.
+* Kernel-based Tests for Likelihood-Free Hypothesis Testing
+  * Co-authored with Patrik Gerber, Yury Polyanskiy, and Rui Sun.
+  * Accepted for Posters at the 2023 NeurIPS (New Orleans, USA).
+* Detection-Recovery and Detection-Refutation Gaps via Reductions from Planted Clique
+  * Co-authored with Guy Bresler.
+  * Accepted at the 2023 COLT (Bangalore, India).
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Sampling via diffusion and stochastic localization (Nov., 2023)
+  * Presented at group meeting of Prof. Guy Bresler, MIT LIDS.
+  * TLDR: combining empirically-motivated diffusion techniques with algorithmic guarantees gives efficient sampling algorithms on highly-theoretical statistical models.
+* Computational lower bounds via average-case reductions (Oct., 2023)
+  * Presented at group meeting of Prof. Sitan Chen, Harvard SEAS.
+  * TLDR: using average-case reductions from the Planted Clique, we provide strong evidence of hardness for a variety of signal-plus-noise problems.
+* Slicing with random half-spaces (Apr., 2023)
+  * Presented at group meetings of Prof. Mert Pilanci, Stanford EE, and Prof. Guy Bresler, MIT LIDS.
+  * TLDR: (projection mass on) a random halfspace encodes a significant amount of information for smooth distributions and GMMs, motivating some provable GAN designs. 
+* Likelihood-Free Inference with kernels (Dec., 2022)
+  * Presented at group meeting of Prof. Yury Polyanskiy, MIT LIDS.
+  * TLDR: kernel methods on likelihood-free testing gives sample complexity bounds with minimal assumpstions and recover several past results on smooth and discrete distributions.
 
 Work experience
 ======
@@ -36,7 +57,10 @@ Work experience
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Teaching Assistant of 6.3700 (Introduction to Probability), 2023 Spring
+  * Created a set of Jupyter Demos for course concepts.
+  * Held Office Hours, proofread course materials.
+  * TA Evaluation: 6.5/7.0
+* Teaching Assistant of 6.7810 (Algorithms for Inference), 2022 Fall
+  * Graded Homeworks, proofread course materials.
+  * TA Evaluation: 7.0/7.0
