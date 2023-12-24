@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here](../assets/Tianze_CV (5).pdf).
+You can find my CV [here](../assets/Tianze_CV (5).pdf) (short) or [here](../assets/Tianze_J_CV.pdf) (long).
 
 &nbsp;
 
