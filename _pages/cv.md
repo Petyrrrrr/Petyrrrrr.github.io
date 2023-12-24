@@ -37,7 +37,7 @@ Recent Publications
 * Optimal Prediction Risk via Compression
   * Co-authored with Yanjun Han and Yihong Wu.
   * Under preparation/submitted.
-* Density estimation using the perceptron
+* Density Estimation Using the Perceptron
   * Co-authored with Patrik Gerber, Yury Polyanskiy, and Rui Sun.
   * Under preparation/submitted.
 * Kernel-based Tests for Likelihood-Free Hypothesis Testing
