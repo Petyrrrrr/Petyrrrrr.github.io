@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is me
+I'm currently a fourth-year undergraduate student at MIT, studying Math, CS, and Statistics.
 
 Research interests
 ======
