@@ -12,9 +12,9 @@ I'm currently a fourth-year undergraduate student at MIT, studying Math, CS, and
 
 Research interests
 ======
-I'm generally interested in the statistics, computer science, combinatorics, and applied probability. A good amount of my past work happened at the intersection of theoretical CS and statistics where I explore insights from TCS to analyze non-asymptotic and high-dimensional inference problems. Last semester I spent some time reading about statistical physics inspired topics such as [spin glasses](https://arxiv.org/abs/2204.02909) and [Approximate Message Passing](https://arxiv.org/abs/2302.03682).
+I'm generally interested in statistics, computer science, combinatorics, and applied probability. A good amount of my past work happened at the intersection of theoretical CS and statistics where I explore insights from TCS to analyze non-asymptotic and high-dimensional inference problems. Last semester I spent some time reading about statistical physics inspired topics such as [spin glasses](https://arxiv.org/abs/2204.02909) (not nearly close to finishing this) and [Approximate Message Passing](https://arxiv.org/abs/2302.03682).
 
-I'm also broadly interested in understanding '[intelligence](https://www.britannica.com/technology/artificial-intelligence)', despite my constant lag behind the [up-to-date](https://openreview.net/group?id=ICLR.cc/2024/Conference#tab-active-submissions) AI developments. 
+I'm also broadly interested in understanding '[intelligence](https://www.britannica.com/technology/artificial-intelligence)', despite my constant lag behind the [up-to-date](https://openreview.net/group?id=ICLR.cc/2024/Conference#tab-active-submissions) AI developments. I hope one day someone comes up with a unifying theory to explain why everything works (most notably SGD) in empirical ML without making unbearing assumptions or questionable approximations.
 
 
 
