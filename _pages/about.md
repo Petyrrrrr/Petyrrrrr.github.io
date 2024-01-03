@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a fourth-year undergraduate student at [MIT](https://www.mit.edu/), studying Math, CS, and Statistics under the brilliant supervision of Prof. [Guy Bresler](https://www.mit.edu/~gbresler/) and Prof. [Nike Sun](https://math.mit.edu/~nsun/). I grew up in [Shanghai](https://www.urbandictionary.com/author.php?author=newyorkstinks), China, and went to [PRISMS](https://prismsus.org/) for high school in Princeton, NJ. A [list](../assets/Tianze_CV (5).pdf) of things I've done (awards, papers, talks, etc.) can be found [here](https://petyrrrrr.github.io/cv/). More detailed descriptions of my past projects is [here](../assets/Tianze_J_CV.pdf).
+I'm currently a fourth-year undergraduate student at [MIT](https://www.mit.edu/), studying Math, CS, and Statistics under the brilliant supervision of Prof. [Guy Bresler](https://www.mit.edu/~gbresler/) and Prof. [Nike Sun](https://math.mit.edu/~nsun/). I grew up in [Shanghai](https://www.instagram.com/p/C1Z2Pj5MLH3/?hl=en), China, and went to [PRISMS](https://prismsus.org/) for high school in Princeton, NJ. A [list](../assets/Tianze_CV (5).pdf) of things I've done (awards, papers, talks, etc.) can be found [here](https://petyrrrrr.github.io/cv/). More detailed descriptions of my past projects is [here](../assets/Tianze_J_CV.pdf).
 
 Research interests
 ======
