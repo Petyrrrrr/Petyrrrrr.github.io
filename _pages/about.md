@@ -28,9 +28,6 @@ Some ongoing thoughts
   * It is known that fully random nets are easier to learn than adversarial nets. But what happens at the intermediate ‘smoothed’ settings?
   * We have a set of nice tools on proving lower bounds with feed-forward nets. How about transformers?
 
-* Diffusion Models and Sampling
-  * Can you run diffusion for a shorter amount of time and generate something that is 'pseudo'-valid (a.k.a. 'shortcut sampling')?
-  * Can you shortcut starting at a noise ratio so low that efficient denoising algorithms start to function?
 
 * Average-case Reductions and Hardness
   * We have some wonderful results matching moments with dense graphs from the Planted Clique model. How about in the sparse regime?
