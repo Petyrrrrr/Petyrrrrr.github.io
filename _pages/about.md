@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently a fourth-year undergraduate student at [MIT](https://www.mit.edu/), studying Math, CS, and Statistics under the brilliant supervision of Prof. [Guy Bresler](https://www.mit.edu/~gbresler/) and Prof. [Nike Sun](https://math.mit.edu/~nsun/). I grew up in [Shanghai](https://www.instagram.com/p/C1Z2Pj5MLH3/?hl=en), China, and went to [PRISMS](https://prismsus.org/) for high school in Princeton, NJ. My CV is [here](../assets/Tianze_CV_0425.pdf).
 
-Starting Fall 2024, I will be starting as a Ph.D. student at Princeton. 
+Starting Fall 2024, I will be starting as a Ph.D. student at Princeton University. 
 
 Research interests
 ======
