@@ -10,6 +10,8 @@ redirect_from:
 
 I'm currently a fourth-year undergraduate student at [MIT](https://www.mit.edu/), studying Math, CS, and Statistics under the brilliant supervision of Prof. [Guy Bresler](https://www.mit.edu/~gbresler/) and Prof. [Nike Sun](https://math.mit.edu/~nsun/). I grew up in [Shanghai](https://www.instagram.com/p/C1Z2Pj5MLH3/?hl=en), China, and went to [PRISMS](https://prismsus.org/) for high school in Princeton, NJ. My CV is [here](../assets/Tianze_CV_0425.pdf).
 
+Starting Fall 2024, I will be starting as a Ph.D. student at Princeton. 
+
 Research interests
 ======
 I'm generally interested in statistics, computer science, combinatorics, and applied probability. A good amount of my past work happened at the intersection of theoretical CS and statistics where I explore insights from TCS to analyze non-asymptotic and high-dimensional inference problems. Last semester I spent some time reading about statistical physics inspired topics such as [spin glasses](https://arxiv.org/abs/2204.02909) (not nearly close to finishing this) and [Approximate Message Passing](https://arxiv.org/abs/2302.03682). Recently I'm interested in studying the theoretical aspects of diffusion models and transformer (attention) models.
