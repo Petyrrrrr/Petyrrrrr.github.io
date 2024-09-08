@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tianze Jiang"
   avatar           : "profile.png"
-  bio              : "Incoming PhD student at Princeton."
-  location         : "Hopefully LA, or the likes"
+  bio              : "PhD student at Princeton."
+  location         : "Greater New York"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : tjiang@mit.edu
+  googlescholar    : "https://scholar.google.com/citations?user=lQscqDAAAAAJ&hl=en"
+  email            : tzjiang@princeton.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
