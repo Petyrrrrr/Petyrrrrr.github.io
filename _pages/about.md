@@ -16,8 +16,10 @@ I grew up in [Shanghai](https://www.instagram.com/p/C1Z2Pj5MLH3/?hl=en), China, 
 
 Research interests
 ======
-I'm generally interested in the intersection of statistics, theoretical computer science, machine learning, and applied probability. Much of my past work happened at the intersection of theoretical CS and statistics where I explored non-asymptotic and high-dimensional inference problems and their average-case complexity. I try to come up with efficient algorithms to solve average-case statistical problems or prove respective lower bounds. 
+I'm generally interested in the intersection of statistics, theoretical computer science, machine learning, and applied probability. Some of my current interests include deep learning theory (in particular, scaling limits of large networks) and random matrix theory. 
 
-I'm also broadly interested in many related fields. On the theory side, I'm interested in using insights from (statistical) physics on learning. On another more practical end, I'm trying to keep up with the constantly evolving progress on attention models. 
+Much of my past work happened at the intersection of theoretical CS and statistics where I explored non-asymptotic and high-dimensional inference problems and their average-case complexity. I try to come up with efficient algorithms to solve average-case statistical problems or prove respective lower bounds. 
+
+I'm also broadly interested in many related fields. On the theory side, I'm interested in using insights from (statistical) physics in learning. On another more practical end, I'm interested in almost all aspects of Large Language Models.
 
 
