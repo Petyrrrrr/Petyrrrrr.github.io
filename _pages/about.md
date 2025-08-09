@@ -16,7 +16,7 @@ I grew up in [Shanghai](https://www.instagram.com/p/C1Z2Pj5MLH3/?hl=en), China, 
 
 Research interests
 ======
-I'm interested in the theory of deep learning from the perspectives of statistical physics, theoretical computer science, and probability. A broad current project I'm working on is about analyzing scaling limits of deep networks via tools from random matrix theory. 
+I'm interested in the theory of deep learning from the perspectives of statistical physics, theoretical computer science, and probability. A broad current project I'm working on is about analyzing the scaling limits and scaling law of deep networks. 
 
 Much of my past work at MIT happened at the intersection of theoretical CS and statistics, where I explored non-asymptotic and high-dimensional inference problems and their average-case complexity. 
 
