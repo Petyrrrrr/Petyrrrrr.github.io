@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tianze Jiang"
   avatar           : "profile.png"
-  bio              : "PhD student at Princeton."
-  location         : "Greater New York"
+  bio              : "PhD Candidate at Princeton University (Currently interning at Meta AI)"
+  location         : "San Francisco, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lQscqDAAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/tianze-jiang-b5b761196"
+  LinkedIn         : #"https://www.linkedin.com/in/tianze-jiang-b5b761196"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
