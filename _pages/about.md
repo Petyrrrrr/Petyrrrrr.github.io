@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-** From June to December 2026, I will be a research scientist intern at Meta AI (FAIR), San Francisco, working on auto-research agents. **
+**From June to December 2026, I will be a research scientist intern at Meta AI (FAIR), San Francisco, working on auto-research agents.**
 
 I'm a Ph.D. candidate at Princeton [ORFE](https://orfe.princeton.edu/), advised by Prof. [Boris Hanin](https://boris-hanin.github.io/). I'm honored to be supported by [the Francis Robbins Upton Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/francis-robbins-upton-fellowship).
 
