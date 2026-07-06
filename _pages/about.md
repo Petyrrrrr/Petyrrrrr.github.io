@@ -10,7 +10,7 @@ redirect_from:
 
 **From June to December 2026, I will be a research scientist intern at Meta AI (FAIR), San Francisco. My internship project focusses on designing, building, and understanding auto-research agents.**
 
-I'm a Ph.D. candidate at Princeton [ORFE](https://orfe.princeton.edu/), advised by Prof. [Boris Hanin](https://boris-hanin.github.io/). I'm honored to be supported by [the Francis Robbins Upton Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/francis-robbins-upton-fellowship). You can find my CV [here](../assets/Tianze_CV_2605.pdf).
+I'm a Ph.D. candidate at Princeton [ORFE](https://orfe.princeton.edu/), advised by Prof. [Boris Hanin](https://boris-hanin.github.io/). I'm honored to be supported by [the Francis Robbins Upton Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/francis-robbins-upton-fellowship). You can find my CV [here](../assets/Tianze_CV_2607.pdf).
 
 I received my B.S. degree from [MIT](https://www.mit.edu/) in 2024 with a double major in Math and CS. During my time at MIT, I was fortunate to work with Prof. [Guy Bresler](https://www.mit.edu/~gbresler/) and Prof. [Yury Polyanskiy]([https://math.mit.edu/~nsun/](https://people.lids.mit.edu/yp/homepage/)) on projects in statistics and theoretical computer science. 
 
